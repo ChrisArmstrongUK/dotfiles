@@ -1,0 +1,26 @@
+palette = 0=#4C4345
+palette = 1=#ED203D
+palette = 2=#0BA95B
+palette = 3=#FCBA28
+palette = 4=#006EE6
+palette = 5=#7B5EA7
+palette = 6=#88DAF2
+palette = 7=#BEBEBE
+palette = 8=#808080
+palette = 9=#FF8985
+palette = 10=#97D5A0
+palette = 11=#FAE365
+palette = 12=#7DB1DA
+palette = 13=#D68EFF
+palette = 14=#49BAC8
+palette = 15=#C4C4C4
+background = #100A1D
+foreground = #C4C4C4
+cursor-color = #C4C4C4
+cursor-text = #c6d0f5
+selection-background = #626880
+selection-foreground = #c6d0f5
+
+window-decoration = server
+window-theme = ghostty
+adw-toolbar-style = flat
