@@ -1,0 +1,7 @@
+README.md
+
+{{- if eq .profile "personal" }}
+{{- end }}
+
+{{- if eq .profile "work" }}
+{{- end }}
